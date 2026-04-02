@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dthumphr
 - 👀 I’m interested in real estate websites, marketing web apps. 
-- 🌱 I’m currently learning Vue, Django, Laravel. 
+- 🌱 I’m currently learning Astro, Python, Go, PostgresQL, MongoDB. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
